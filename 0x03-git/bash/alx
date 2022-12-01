@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "this school i coo"
+=======
+echo "ALX school"
+>>>>>>> update_script
