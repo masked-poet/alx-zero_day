@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "this school i coo"
-=======
+echo "this school is cool"
 echo "ALX school"
->>>>>>> update_script
